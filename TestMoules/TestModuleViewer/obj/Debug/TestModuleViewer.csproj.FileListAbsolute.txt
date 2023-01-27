@@ -1,0 +1,85 @@
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModuleViewer\TestModuleViewer\bin\Debug\TestModuleViewer.exe
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModuleViewer\TestModuleViewer\bin\Debug\TestModuleViewer.pdb
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModuleViewer\TestModuleViewer\obj\Debug\TestModuleViewer.csproj.AssemblyReference.cache
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModuleViewer\TestModuleViewer\obj\Debug\TestModuleViewer.Properties.Resources.resources
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModuleViewer\TestModuleViewer\obj\Debug\TestModuleViewer.csproj.GenerateResource.cache
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModuleViewer\TestModuleViewer\obj\Debug\TestModuleViewer.csproj.CoreCompileInputs.cache
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModuleViewer\TestModuleViewer\obj\Debug\TestModuleViewer.exe
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModuleViewer\TestModuleViewer\obj\Debug\TestModuleViewer.pdb
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModuleViewer\TestModuleViewer\bin\Debug\Newtonsoft.Json.dll
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModuleViewer\TestModuleViewer\obj\Debug\TestModuleViewer.csproj.CopyComplete
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModuleViewer\TestModuleViewer\obj\Debug\TestModuleViewer.Form1.resources
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModuleViewer - 복사본\TestModuleViewer\bin\Debug\TestModuleViewer.exe
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModuleViewer - 복사본\TestModuleViewer\bin\Debug\TestModuleViewer.pdb
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModuleViewer - 복사본\TestModuleViewer\bin\Debug\Newtonsoft.Json.dll
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModuleViewer - 복사본\TestModuleViewer\obj\Debug\TestModuleViewer.csproj.AssemblyReference.cache
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModuleViewer - 복사본\TestModuleViewer\obj\Debug\TestModuleViewer.Form1.resources
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModuleViewer - 복사본\TestModuleViewer\obj\Debug\TestModuleViewer.Properties.Resources.resources
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModuleViewer - 복사본\TestModuleViewer\obj\Debug\TestModuleViewer.csproj.GenerateResource.cache
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModuleViewer - 복사본\TestModuleViewer\obj\Debug\TestModuleViewer.csproj.CoreCompileInputs.cache
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModuleViewer - 복사본\TestModuleViewer\obj\Debug\TestModuleViewer.csproj.CopyComplete
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModuleViewer - 복사본\TestModuleViewer\obj\Debug\TestModuleViewer.exe
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModuleViewer - 복사본\TestModuleViewer\obj\Debug\TestModuleViewer.pdb
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModuleViewer\TestModuleViewer\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModuleViewer\TestModuleViewer\bin\Debug\dll\x86\opencv_videoio_ffmpeg455.dll
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModuleViewer\TestModuleViewer\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModuleViewer\TestModuleViewer\bin\Debug\dll\x64\opencv_videoio_ffmpeg455_64.dll
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModuleViewer\TestModuleViewer\bin\Debug\System.Net.Http.Formatting.dll
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModuleViewer\TestModuleViewer\bin\Debug\System.Web.Http.dll
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModuleViewer\TestModuleViewer\bin\Debug\System.Web.Http.WebHost.dll
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModuleViewer\TestModuleViewer\bin\Debug\Microsoft.Web.Infrastructure.dll
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModuleViewer\TestModuleViewer\bin\Debug\OpenCvSharp.dll
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModuleViewer\TestModuleViewer\bin\Debug\Swashbuckle.Core.dll
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModuleViewer\TestModuleViewer\bin\Debug\System.Buffers.dll
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModuleViewer\TestModuleViewer\bin\Debug\System.Memory.dll
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModuleViewer\TestModuleViewer\bin\Debug\System.Numerics.Vectors.dll
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModuleViewer\TestModuleViewer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModuleViewer\TestModuleViewer\bin\Debug\System.ValueTuple.dll
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModuleViewer\TestModuleViewer\bin\Debug\WebActivatorEx.dll
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModuleViewer\TestModuleViewer\obj\Debug\TestModuleViewer.csproj.SuggestedBindingRedirects.cache
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModuleViewer\TestModuleViewer\obj\Debug\TestModuleViewer.exe.config
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModuleViewer\TestModuleViewer\bin\Debug\TestModuleViewer.exe.config
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModuleViewer\TestModuleViewer\bin\Debug\OpenCvSharp.Extensions.dll
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModuleViewer\TestModuleViewer\bin\Debug\System.Drawing.Common.dll
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModuleViewer\TestModuleViewer\bin\Debug\MQTTnet.dll
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModuleViewer\TestModuleViewer\bin\Debug\MQTTnet.Extensions.ManagedClient.dll
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModules\TestModuleViewer\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModules\TestModuleViewer\bin\Debug\dll\x86\opencv_videoio_ffmpeg455.dll
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModules\TestModuleViewer\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModules\TestModuleViewer\bin\Debug\dll\x64\opencv_videoio_ffmpeg455_64.dll
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModules\TestModuleViewer\bin\Debug\TestModuleViewer.exe.config
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModules\TestModuleViewer\bin\Debug\TestModuleViewer.exe
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModules\TestModuleViewer\bin\Debug\TestModuleViewer.pdb
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModules\TestModuleViewer\bin\Debug\MQTTnet.dll
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModules\TestModuleViewer\bin\Debug\MQTTnet.Extensions.ManagedClient.dll
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModules\TestModuleViewer\bin\Debug\Newtonsoft.Json.dll
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModules\TestModuleViewer\bin\Debug\OpenCvSharp.dll
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModules\TestModuleViewer\bin\Debug\OpenCvSharp.Extensions.dll
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModules\TestModuleViewer\bin\Debug\System.Buffers.dll
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModules\TestModuleViewer\bin\Debug\System.Drawing.Common.dll
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModules\TestModuleViewer\bin\Debug\System.Memory.dll
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModules\TestModuleViewer\bin\Debug\System.Numerics.Vectors.dll
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModules\TestModuleViewer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModules\TestModuleViewer\bin\Debug\System.ValueTuple.dll
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModules\TestModuleViewer\obj\Debug\TestModuleViewer.csproj.AssemblyReference.cache
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModules\TestModuleViewer\obj\Debug\TestModuleViewer.csproj.SuggestedBindingRedirects.cache
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModules\TestModuleViewer\obj\Debug\TestModuleViewer.exe.config
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModules\TestModuleViewer\obj\Debug\TestModuleViewer.ViewerCode.resources
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModules\TestModuleViewer\obj\Debug\TestModuleViewer.Properties.Resources.resources
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModules\TestModuleViewer\obj\Debug\TestModuleViewer.csproj.GenerateResource.cache
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModules\TestModuleViewer\obj\Debug\TestModuleViewer.csproj.CoreCompileInputs.cache
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModules\TestModuleViewer\obj\Debug\TestModuleViewer.csproj.CopyComplete
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModules\TestModuleViewer\obj\Debug\TestModuleViewer.exe
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModules\TestModuleViewer\obj\Debug\TestModuleViewer.pdb
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModules\TestModuleViewer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModules\TestModuleViewer\bin\Debug\Microsoft.Extensions.Configuration.dll
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModules\TestModuleViewer\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModules\TestModuleViewer\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModules\TestModuleViewer\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModules\TestModuleViewer\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModules\TestModuleViewer\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModules\TestModuleViewer\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModules\TestModuleViewer\bin\Debug\Microsoft.Extensions.Primitives.dll
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModules\TestModuleViewer\bin\Debug\System.Text.Encodings.Web.dll
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModules\TestModuleViewer\bin\Debug\System.Text.Json.dll
+G:\내 드라이브\cubox\학습\윈폼 프로젝트\TestModules\TestModuleViewer\bin\Debug\System.Threading.Tasks.Extensions.dll
